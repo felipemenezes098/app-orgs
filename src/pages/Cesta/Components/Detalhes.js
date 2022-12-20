@@ -30,7 +30,7 @@ const estilos = StyleSheet.create({
     },
     fazenda: {
         flexDirection: "row",
-        paddingVertical: 12,
+        paddingVertical: 12
     },
     imagemFazenda: {
         width: 32,
